@@ -3,3 +3,8 @@
 Learn how to make perfect baked potatoes! This recipe is simple and delicious.
 # Baked Potatoes
 
+## Ingredients
+
+- 1 large potato
+- Cooking oil
+- Salt
